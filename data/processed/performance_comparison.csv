@@ -1,3 +1,0 @@
-algorithm,runtime_sec,n_itemsets,n_rules,avg_itemset_length
-apriori,84.0436041355133,2120,3856,1.7622641509433963
-fpgrowth,6.04979681968689,2120,3856,1.7622641509433963
